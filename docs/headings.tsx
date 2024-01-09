@@ -225,7 +225,7 @@ const headings: HeadingDefinition[] = [
   {
     level: 2,
     title: 'Render Modes (SPA, SSR, SSG, HTML-only)',
-    titleInNav: 'SPA, SSR, SSG, HTML-only',
+    titleInNav: 'Render Modes (SPA, SSR, SSG, HTML-only)',
     url: '/render-modes',
     sectionTitles: ['HTML-only', 'SPA', 'SSR']
   },
